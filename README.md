@@ -1,4 +1,4 @@
-# 🌿 Sentara — AI Emotional Intelligence App
+# Sentara — AI Emotional Intelligence App
 
 > **Your smart mobile companion for emotional clarity and mental well-being.**
 
